@@ -87,3 +87,9 @@ If you created the superuser as suggested in the walkthrough:
 ## 📧 Email Testing
 Emails (Password Reset, Order Confirmation) are currently configured to print to the **Console/Terminal** where the backend is running.
 To change this to real SMTP (Gmail, etc.), update `EMAIL_BACKEND` in `backend/settings.py`.
+
+## ✍️ Author
+
+- **Name**: Fathima Jufla
+- **Email**: [tofathimas@gmail.com](mailto:tofathimas@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/fathimajufla-mk](https://www.linkedin.com/in/fathimajufla-mk)
